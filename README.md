@@ -13,7 +13,6 @@ This App is not fully done. You might find some issues and bugs that you see. Yo
 You can also see a message while installing the app, which says "this app looks suspicious." You can ignore that one because the app is on a project.
 
 # Download to Try Now!
-[Download](https://fayadgamer13.github.io/RemindLater.github.io)
-
-
+[Download on Website](https://fayadgamer13.github.io/RemindLater.github.io)
+[Download on Release](https://github.com/fayadgamer13/RemindLater/releases)
 
