@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RemindLater</string>
+    <string name="reminders">التذكيرات</string>
+    <string name="no_reminders">لا توجد تذكيرات بعد. اضغط على + للإضافة.</string>
+    <string name="new_reminder">تذكير جديد</string>
+    <string name="title">العنوان</string>
+    <string name="description">الوصف</string>
+    <string name="voice_reminder">تذكير صوتي</string>
+    <string name="select_date">اختر التاريخ</string>
+    <string name="select_time">اختر الوقت</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">موافق</string>
+    <string name="settings">الإعدادات</string>
+    <string name="dark_theme">المظهر الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="app_version">إصدار التطبيق</string>
+    <string name="github_project">مشروع GitHub</string>
+    <string name="delete">حذف</string>
+    <string name="use_default_alarm">استخدام تنبيه النظام الافتراضي</string>
+    <string name="custom_alarm">تنبيه مخصص</string>
+    <string name="pick_audio">اختر ملف صوتي</string>
+</resources>
