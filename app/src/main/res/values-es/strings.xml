@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RemindLater</string>
+    <string name="reminders">Recordatorios</string>
+    <string name="no_reminders">No hay recordatorios aún. Toca + para añadir uno.</string>
+    <string name="new_reminder">Nuevo Recordatorio</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="voice_reminder">Recordatorio de voz</string>
+    <string name="select_date">Seleccionar fecha</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Aceptar</string>
+    <string name="settings">Ajustes</string>
+    <string name="dark_theme">Tema oscuro</string>
+    <string name="language">Idioma</string>
+    <string name="app_version">Versión de la aplicación</string>
+    <string name="github_project">Proyecto en GitHub</string>
+    <string name="delete">Eliminar</string>
+    <string name="use_default_alarm">Usar alarma predeterminada</string>
+    <string name="custom_alarm">Alarma personalizada</string>
+    <string name="pick_audio">Seleccionar archivo de audio</string>
+</resources>
