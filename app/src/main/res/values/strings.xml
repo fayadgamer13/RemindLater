@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RemindLater</string>
+    <string name="reminders">Reminders</string>
+    <string name="no_reminders">No reminders yet. Tap + to add one.</string>
+    <string name="new_reminder">New Reminder</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="voice_reminder">Voice Reminder</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="theme_auto">Auto (System Default)</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="dynamic_color">Dynamic Color (Material You)</string>
+    <string name="language">Language</string>
+    <string name="app_version">App Version</string>
+    <string name="github_project">GitHub Project</string>
+    <string name="delete">Delete</string>
+    <string name="use_default_alarm">Use Default Alarm</string>
+    <string name="custom_alarm">Custom Alarm</string>
+    <string name="pick_audio">Pick Audio File</string>
+    <string name="auto_language">Auto (System Default)</string>
+</resources>
